@@ -70,3 +70,8 @@ tmp/
 # Dependências Node/Electron geradas
 **/node_modules/
 
+# Backup do Git original da source
+gameSrc/.git_original_backup/
+
+# Gitignore original interno da source
+gameSrc/.gitignore
